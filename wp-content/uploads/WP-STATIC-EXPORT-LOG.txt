@@ -1,0 +1,602 @@
+2020-10-03 02:56:16
+PHP VERSION 7.3.2
+OS VERSION Windows NT DESKTOP-LHRRMD9 10.0 build 18362 (Windows 10) i586
+WP VERSION 5.2.7
+WP URL http://localhost/good
+WP SITEURL http://localhost/good
+WP HOME http://localhost/good
+WP ADDRESS http://localhost/good
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://shariful11197.github.io/good/
+PERMALINK STRUCTURE /%year%/%monthnum%/%day%/%postname%/
+SERVER SOFTWARE Apache/2.4.38 (Win32) OpenSSL/1.1.1a PHP/7.3.2
+Active plugins:
+package/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: https://shariful11197.github.io/good/
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: https://shariful11197.github.io/good/
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 0
+crawl_increment: 1
+crawlPort: 
+debug_mode: 1
+detection_level: everything
+delayBetweenAPICalls: 0
+deployBatchSize: 999999
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: msa
+ghBranch: good
+ghCommitMessage: 
+ghPath: 
+ghRepo: shariful11197 / good
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: github
+targetFolder: F:/server/htdocs/good/mystaticsite
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+wddx
+xmlreader
+xmlwriter
+apache2handler
+openssl
+curl
+fileinfo
+gd
+gettext
+mbstring
+exif
+mysqli
+pdo_mysql
+pdo_sqlite
+Phar
+ftp
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/style.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/css/blocks.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/images/header.jpg
+Adding discovered URL: /
+Adding discovered URL: /2020/10/03/hello-world/
+Adding discovered URL: /2020/10/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/global.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING / to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/10/03/hello-world/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/10/03/hello-world/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/style.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/css/blocks.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /2020/10/03/hello-world/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/images/header.jpg
+Adding discovered URL: /author/good/
+Adding discovered URL: /2020/10/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/global.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING /2020/10/03/hello-world/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/2020/10/03/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/uncategorized/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/style.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/css/blocks.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/images/header.jpg
+Adding discovered URL: /
+Adding discovered URL: /2020/10/03/hello-world/
+Adding discovered URL: /2020/10/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/global.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING /category/uncategorized/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/category/uncategorized/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/page/1
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/uncategorized/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/style.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/css/blocks.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/images/header.jpg
+Adding discovered URL: /
+Adding discovered URL: /2020/10/03/hello-world/
+Adding discovered URL: /2020/10/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/global.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING /category/uncategorized/page/1 to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/category/uncategorized/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /favicon.ico
+BAD RESPONSE STATUS (404): /favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /good/
+BAD RESPONSE STATUS (404): /good/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /good/2020/
+BAD RESPONSE STATUS (404): /good/2020/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /good/2020/10/
+BAD RESPONSE STATUS (404): /good/2020/10/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /good/2020/10/03/
+BAD RESPONSE STATUS (404): /good/2020/10/03/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /good/2020/10/03/hello-world/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /2020/10/03/hello-world/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/style.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/css/blocks.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /2020/10/03/hello-world/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/images/header.jpg
+Adding discovered URL: /author/good/
+Adding discovered URL: /2020/10/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/global.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING /good/2020/10/03/hello-world/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/good/2020/10/03/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /good/sample-page/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /sample-page/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/style.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/css/blocks.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /sample-page/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/images/header.jpg
+Adding discovered URL: /wp-admin/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/global.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING /good/sample-page/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/good/sample-page/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page/1
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/style.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/css/blocks.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/images/header.jpg
+Adding discovered URL: /
+Adding discovered URL: /2020/10/03/hello-world/
+Adding discovered URL: /2020/10/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/global.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING /page/1 to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /pages/page/1
+BAD RESPONSE STATUS (404): /pages/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sample-page/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /sample-page/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/style.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/css/blocks.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /sample-page/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/images/header.jpg
+Adding discovered URL: /wp-admin/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/global.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING /sample-page/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/\/sample-page/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sitemap.xml
+BAD RESPONSE STATUS (404): /sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\css\blocks.css
+SAVING /wp-content/themes/twentyseventeen\assets\css\blocks.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\css/blocks.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\css\colors-dark.css
+SAVING /wp-content/themes/twentyseventeen\assets\css\colors-dark.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\css/colors-dark.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\css\editor-blocks.css
+SAVING /wp-content/themes/twentyseventeen\assets\css\editor-blocks.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\css/editor-blocks.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\css\editor-style.css
+SAVING /wp-content/themes/twentyseventeen\assets\css\editor-style.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\css/editor-style.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\css\ie8.css
+SAVING /wp-content/themes/twentyseventeen\assets\css\ie8.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\css/ie8.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\css\ie9.css
+SAVING /wp-content/themes/twentyseventeen\assets\css\ie9.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\css/ie9.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\images\coffee.jpg
+SAVING /wp-content/themes/twentyseventeen\assets\images\coffee.jpg to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\images/coffee.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\images\espresso.jpg
+SAVING /wp-content/themes/twentyseventeen\assets\images\espresso.jpg to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\images/espresso.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\images\header.jpg
+SAVING /wp-content/themes/twentyseventeen\assets\images\header.jpg to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\images/header.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\images\sandwich.jpg
+SAVING /wp-content/themes/twentyseventeen\assets\images\sandwich.jpg to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\images/sandwich.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\images\svg-icons.svg
+SAVING /wp-content/themes/twentyseventeen\assets\images\svg-icons.svg to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\images/svg-icons.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\js\customize-controls.js
+SAVING /wp-content/themes/twentyseventeen\assets\js\customize-controls.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\js/customize-controls.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\js\customize-preview.js
+SAVING /wp-content/themes/twentyseventeen\assets\js\customize-preview.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\js/customize-preview.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\js\global.js
+SAVING /wp-content/themes/twentyseventeen\assets\js\global.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\js/global.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\js\html5.js
+SAVING /wp-content/themes/twentyseventeen\assets\js\html5.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\js/html5.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\js\jquery.scrollTo.js
+SAVING /wp-content/themes/twentyseventeen\assets\js\jquery.scrollTo.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\js/jquery.scrollTo.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\js\navigation.js
+SAVING /wp-content/themes/twentyseventeen\assets\js\navigation.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\js/navigation.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\assets\js\skip-link-focus-fix.js
+SAVING /wp-content/themes/twentyseventeen\assets\js\skip-link-focus-fix.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen\assets\js/skip-link-focus-fix.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\rtl.css
+SAVING /wp-content/themes/twentyseventeen\rtl.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen/rtl.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\screenshot.png
+SAVING /wp-content/themes/twentyseventeen\screenshot.png to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen/screenshot.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen\style.css
+SAVING /wp-content/themes/twentyseventeen\style.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen/style.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /2020/10/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/style.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/css/blocks.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/images/header.jpg
+Adding discovered URL: /
+Adding discovered URL: /2020/10/03/hello-world/
+Adding discovered URL: /2020/10/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/global.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING /2020/10/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/2020/10/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /2020/10/03/hello-world/feed/
+SAVING /2020/10/03/hello-world/feed/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/2020/10/03/hello-world/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /author/good/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /author/good/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/style.css
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/css/blocks.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/images/header.jpg
+Adding discovered URL: /
+Adding discovered URL: /2020/10/03/hello-world/
+Adding discovered URL: /2020/10/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/global.js
+Adding discovered URL: /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING /author/good/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/author/good/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/feed/
+SAVING /category/uncategorized/feed/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/category/uncategorized/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /comments/feed/
+SAVING /comments/feed/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/comments/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /feed/
+SAVING /feed/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/\/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sample-page/feed/
+SAVING /sample-page/feed/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/sample-page/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-admin/
+Adding discovered URL: /wp-includes/css/dashicons.min.css
+Adding discovered URL: /wp-includes/css/buttons.min.css
+Adding discovered URL: /wp-admin/css/forms.min.css
+Adding discovered URL: /wp-admin/css/l10n.min.css
+Adding discovered URL: /wp-admin/css/login.min.css
+Adding discovered URL: /
+SAVING /wp-admin/ to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/\/wp-admin/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen/assets/css/blocks.css
+SAVING /wp-content/themes/twentyseventeen/assets/css/blocks.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen/assets/css/blocks.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen/assets/images/header.jpg
+SAVING /wp-content/themes/twentyseventeen/assets/images/header.jpg to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen/assets/images/header.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen/assets/js/global.js
+SAVING /wp-content/themes/twentyseventeen/assets/js/global.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen/assets/js/global.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+SAVING /wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+SAVING /wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentyseventeen/style.css
+SAVING /wp-content/themes/twentyseventeen/style.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-content/themes/twentyseventeen/style.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-includes/css/dist/block-library/style.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/theme.min.css
+SAVING /wp-includes/css/dist/block-library/theme.min.css to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-includes/css/dist/block-library/theme.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/js/jquery/jquery-migrate.min.js
+SAVING /wp-includes/js/jquery/jquery-migrate.min.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-includes/js/jquery/jquery-migrate.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/js/jquery/jquery.js
+SAVING /wp-includes/js/jquery/jquery.js to F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/wp-includes/js/jquery/jquery.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Excluding /wp-json/ because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/oembed/1.0/embed because of rule wp-json
+Uploading F:/server/htdocs/good/wp-content/uploads/wp-static-html-output-1601736976/2020/10/03/hello-world/feed/index.html to 2020/10/03/hello-world/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":null},"errors":[{"type":"NOT_FOUND","path":["repository"],"locations":[{"line":2,"column":3}],"message":"Could not resolve to a Repository with the name 'shariful11197 / good'."}]}
+Creating 2020/10/03/hello-world/feed/index.html in GitHub
+API response code 400
+API response body 
+<html>
+  <head>
+    <meta content="origin" name="referrer">
+    <title>Bad request &middot; GitHub</title>
+    <meta name="viewport" content="width=device-width">
+    <style type="text/css" media="screen">
+      body {
+        background-color: #f6f8fa;
+        color: rgba(0, 0, 0, 0.5);
+        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+        font-size: 14px;
+        line-height: 1.5;
+      }
+      .c { margin: 50px auto; max-width: 600px; text-align: center; padding: 0 24px; }
+      a { text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      h1 { color: #24292e; line-height: 60px; font-size: 48px; font-weight: 300; margin: 0px; }
+      p { margin: 20px 0 40px; }
+      #s { margin-top: 35px; }
+      #s a {
+        color: #666666;
+        font-weight: 200;
+        font-size: 14px;
+        margin: 0 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="c">
+      <h1>Whoa there!</h1>
+      <p>You have sent an invalid request. <br><br>
+        Please do not send this request again.
+      </p>
+      <div id="s">
+        <a href="https://support.github.com">Contact Support</a> &mdash;
+        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
+        <a href="https://twitter.com/githubstatus">@githubstatus</a>
+      </div>
+    </div>
+  </body>
+</html>
+BAD RESPONSE STATUS FROM API (400)
+Deployment: error encountered
+Exception: BAD RESPONSE STATUS FROM API (400) in F:\server\htdocs\good\wp-content\plugins\package\plugin\WP2Static\SitePublisher.php:186
+Stack trace:
+#0 F:\server\htdocs\good\wp-content\plugins\package\plugin\deployers\GitHub.php(192): WP2Static_SitePublisher->checkForValidResponses(400, Array)
+#1 F:\server\htdocs\good\wp-content\plugins\package\plugin\deployers\GitHub.php(71): WP2Static_GitHub->createFileInGitHub()
+#2 F:\server\htdocs\good\wp-content\plugins\package\plugin\deployers\GitHub.php(22): WP2Static_GitHub->upload_files()
+#3 F:\server\htdocs\good\wp-content\plugins\package\plugin\deployers\GitHub.php(198): WP2Static_GitHub->__construct()
+#4 F:\server\htdocs\good\wp-content\plugins\package\plugin\WP2Static\Dispatcher.php(26): require_once('F:\\server\\htdoc...')
+#5 F:\server\htdocs\good\wp-content\plugins\package\wp2static.php(18): require_once('F:\\server\\htdoc...')
+#6 F:\server\htdocs\good\wp-settings.php(362): include_once('F:\\server\\htdoc...')
+#7 F:\server\htdocs\good\wp-config.php(90): require_once('F:\\server\\htdoc...')
+#8 F:\server\htdocs\good\wp-load.php(37): require_once('F:\\server\\htdoc...')
+#9 F:\server\htdocs\good\wp-admin\admin-ajax.php(22): require_once('F:\\server\\htdoc...')
+#10 {main}
